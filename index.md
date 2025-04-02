@@ -16,7 +16,7 @@ Certified EU AI Act by <a href="https://forhumanity.center/" target="_blank">For
 
 <div style="flex-shrink: 0; text-align: center;">
   <img src="/assets/img/profile.png" alt="William Hartono" style="border-radius: 50%; width: 220px; height: 220px;">
-  <div style="margin-top: 0.8rem;">📍 Jakarta, Indonesia</div>
+  <div style="margin-top: 0.8rem;">📍 Singapore</div>
 </div>
 
 </div>
