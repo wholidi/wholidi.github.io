@@ -11,6 +11,12 @@ layout: default
 <p><strong>24+ Years | 29 Projects | 55 Countries</strong></p>
 
 <p>
+  <a href="/cv" style="display: inline-block; margin: 1rem 0; padding: 0.6rem 1.2rem; background-color: #007acc; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    View Experience
+  </a>
+</p>
+
+<p>
 Digital Transformation and AI Audit professional with over two decades of experience driving enterprise-scale innovation across logistics, supply chain, and manufacturing. 
 My journey spans 29 successful global projects in 55 countries, leading cross-functional teams in the integration of AI, ML, MLOps, SAP S/4HANA, and Cloud into complex business ecosystems.
 </p>
