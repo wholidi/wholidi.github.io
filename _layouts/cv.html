@@ -1,1 +1,56 @@
+# Regenerate the cv.html file after environment reset
+
+cv_html_content = """\
+---
+layout: default
+---
+
+<div class="cv">
+
+  {% for section in site.data.cv %}
+    {% assign section_name = section[0] %}
+    {% assign section_items = section[1] %}
+    <section class="cv-section" id="{{ section_name | downcase }}">
+      <h2>{{ section_name | capitalize }}</h2>
+      {% for item in section_items %}
+        <div class="cv-entry">
+          {% if item.title %}
+            <h3>{{ item.title }}</h3>
+          {% elsif item.degree %}
+            <h3>{{ item.degree }}</h3>
+          {% elsif item.name %}
+            <h3>{{ item.name }}</h3>
+          {% endif %}
+
+          {% if item.place %}
+            <p><strong>{{ item.place }}</strong></p>
+          {% elsif item.school %}
+            <p><strong>{{ item.school }}</strong></p>
+          {% endif %}
+
+          {% if item.date %}
+            <p><em>{{ item.date }}</em></p>
+          {% endif %}
+
+          {% if item.description %}
+            <ul>
+              {% for bullet in item.description %}
+                <li>{{ bullet }}</li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </section>
+  {% endfor %}
+
+</div>
+"""
+
+# Save it to a file
+cv_layout_path = "/mnt/data/cv.html"
+with open(cv_layout_path, "w") as f:
+    f.write(cv_html_content)
+
+cv_layout_path
 
