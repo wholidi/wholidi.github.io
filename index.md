@@ -29,7 +29,7 @@ Let's connect if you're working at the intersection of AI and compliance or look
 </div>
 
 <div style="flex-shrink: 0; text-align: center;">
-  <img src="/assets/img/profile.png" alt="William Hartono" style="border-radius: 50%; width: 200px; height: 200px;">
+  <img src="/assets/img/profile.jpg" alt="William Hartono" style="border-radius: 50%; width: 200px; height: 200px;">
   <div style="margin-top: 0.8rem;">📍 Singapore </div>
 </div>
 
