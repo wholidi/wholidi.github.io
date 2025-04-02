@@ -7,7 +7,8 @@ layout: default
 <div style="flex: 2; min-width: 350px; max-width: 800px">
 <h1><strong>William</strong> Hartono</h1>
 
-<p><strong>Digital Transformation & AI Audit Professional | 24+ Years | 29 Projects | 55 Countries</strong></p>
+<p><strong>Digital Transformation & AI Audit Professional</strong></p>
+<p><strong>24+ Years | 29 Projects | 55 Countries</strong></p>
 
 <p>
 Digital Transformation and AI Audit professional with over two decades of experience driving enterprise-scale innovation across logistics, supply chain, and manufacturing. 
