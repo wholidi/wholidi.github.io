@@ -4,8 +4,8 @@ layout: default
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 2rem; margin-top: 2rem;">
 
-# <div style="flex: 2; min-width: 350px; max-width: 800px">
-# <h1><strong>William</strong> Hartono</h1> 
+<div style="flex: 2; min-width: 350px; max-width: 800px">
+<h1><strong>William</strong> Hartono</h1> 
   
 <p><strong>Digital Transformation & AI Audit Professional</strong></p>
 <p><strong>24+ Years | 29 Projects | 55 Countries</strong></p>
