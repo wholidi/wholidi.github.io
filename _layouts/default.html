@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+<body>
+
+  <div style="display: flex; min-height: 100vh;">
+    <aside style="width: 250px; padding: 2rem; background-color: #f8f8f8;">
+      {% include sidebar.html %}
+    </aside>
+
+    <main style="flex: 1; padding: 2rem;">
+      {{ content }}
+    </main>
+  </div>
+
+  {% include footer.html %}
+</body>
+</html>
