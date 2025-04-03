@@ -38,7 +38,7 @@ My journey spans 29 successful global projects in 55 countries, leading cross-fu
 
 
 <p style="margin-bottom: 1.5rem; line-height: 1.8;">
-I thrive in bridging the gap between cutting-edge technology and business outcomes. Driving Smart Factory IoT Solution, Modernizing pharmaceutical compliance, Digitally transforming product lifecycles — I bring a proven track record of delivering results through collaboration, clarity, and continuous learning.
+I thrive in bridging the gap between cutting-edge technology and business outcomes. Driving Smart Factory IoT Solution, Modernizing pharmaceutical compliance, Digitally transforming product lifecycles — I bring a proven track record of delivering results through collaboration, clarity, and continuous improvement.
 </p>
 
 
