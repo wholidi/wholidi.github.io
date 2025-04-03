@@ -10,11 +10,11 @@ layout: default
 <h1><strong>William</strong> Hartono</h1> 
 -->
   
-<p style="font-size: 1.1rem; margin-bottom: 0.2rem;">
+<p style="font-size: 1.1rem; color: #007acc; margin-bottom: 0.2rem;">
     <strong>Digital Transformation & AI Audit Professional</strong>
 </p>
 
-<p style="font-size: 1.05rem; margin-bottom: 1rem;">
+<p style="font-size: 1.05rem; color: #007acc; margin-bottom: 1rem;">
     <strong>24+ Years | 29 Projects | 55 Countries</strong>
 </p>
   
