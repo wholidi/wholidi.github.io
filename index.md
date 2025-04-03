@@ -5,16 +5,21 @@ layout: default
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 2rem; margin-top: 2rem;">
 
 <div style="flex: 2; min-width: 350px; max-width: 800px">
+
+<!--
 <h1><strong>William</strong> Hartono</h1> 
+-->
   
 <p><strong>Digital Transformation & AI Audit Professional</strong></p>
 <p><strong>24+ Years | 29 Projects | 55 Countries</strong></p>
 
+<!--
 <p>
   <a href="/cv" style="display: inline-block; margin: 1rem 0; padding: 0.6rem 1.2rem; background-color: #007acc; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
     View Experience
   </a>
 </p>
+-->
 
 <p>
 Digital Transformation and AI Audit professional with over two decades of experience driving enterprise-scale innovation across logistics, supply chain, and manufacturing. 
@@ -35,9 +40,11 @@ Let's connect if you're working at the intersection of AI and compliance or look
 
 </div>
 
+<!--
 <div style="flex-shrink: 0; text-align: center;">
   <img src="/assets/img/profile.jpg" alt="William Hartono" style="border-radius: 50%; width: 200px; height: 200px;">
   <div style="margin-top: 0.8rem;">📍 Singapore </div>
 </div>
 
 </div>
+-->
