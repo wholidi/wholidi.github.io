@@ -31,23 +31,23 @@ layout: default
 -->
 
 
-<p style="margin-bottom: 1.5rem;">
+<p style="margin-bottom: 1.5rem; line-height: 1.8;">
 Digital Transformation and AI Audit professional with over two decades of experience driving enterprise-scale innovation across logistics, supply chain, and manufacturing. 
 My journey spans 29 successful global projects in 55 countries, leading cross-functional teams in the integration of AI, ML, MLOps, SAP S/4HANA, and Cloud into complex business ecosystems.
 </p>
 
 
-<p style="margin-bottom: 1.5rem;">
+<p style="margin-bottom: 1.5rem; line-height: 1.8;">
 I thrive in bridging the gap between cutting-edge technology and business outcomes. Driving Smart Factory IoT Solution, Modernizing pharmaceutical compliance, Digitally transforming product lifecycles — I bring a proven track record of delivering results through collaboration, clarity, and continuous learning.
 </p>
 
 
-<p style="margin-bottom: 1.5rem;">
+<p style="margin-bottom: 1.5rem; line-height: 1.8;">
 Certified EU AI Act by <a href="https://forhumanity.center/" target="_blank">ForHumanity</a>, actively exploring collaborations around AI system audits, AI risk management, and ethical sustainable AI adoption. Passionate about bridging emerging tech with enterprise impact through practical compliance, responsible adoption, and measurable business outcomes.
 </p>
 
 
-<p style="margin-bottom: 1.5rem;">
+<p style="margin-bottom: 1.5rem; line-height: 1.8;">
 Let's connect if you're working at the intersection of AI and compliance or looking to drive measurable impact through intelligent systems!
 </p>
 
