@@ -10,9 +10,18 @@ layout: default
 <h1><strong>William</strong> Hartono</h1> 
 -->
   
+<p style="font-size: 1.1rem; margin-bottom: 0.2rem;">
+    <strong>Digital Transformation & AI Audit Professional</strong>
+</p>
+
+<p style="font-size: 1.05rem; margin-bottom: 1rem;">
+    <strong>24+ Years | 29 Projects | 55 Countries</strong>
+</p>
+  
+<!--  
 <p><strong>Digital Transformation & AI Audit Professional</strong></p>
 <p><strong>24+ Years | 29 Projects | 55 Countries</strong></p>
-
+-->
 <!--
 <p>
   <a href="/cv" style="display: inline-block; margin: 1rem 0; padding: 0.6rem 1.2rem; background-color: #007acc; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
