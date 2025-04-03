@@ -5,4 +5,4 @@ baseurl: ""
 url: "https://wholidi.github.io"
 github_username: "wholidi"
 linkedin_username: "whartono"
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
