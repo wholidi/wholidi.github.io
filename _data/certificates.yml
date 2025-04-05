@@ -1,4 +1,14 @@
-- title: AI Audit Certification
+
+- title: AI Audit and Governance
+  category: Responsible AI & Governance 
+  description: Certified AI Auditor under EU AI Act. Risk-based assessment and governance.
+  items:
+    - Certified AI Auditor under EU AI Act
+    - Independent AI Audit System (IAIAS)
+  link: https://forhumanity.center
+  importance: 1
+
+- title: AI Audit and Governance Certification
   category: ForHumanity / EU AI Act
   description: Certified AI Auditor under EU AI Act. Risk-based assessment and governance.
   link: https://forhumanity.center
