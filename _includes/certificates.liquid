@@ -1,0 +1,8 @@
+<!-- _includes/certificates.liquid -->
+<div class="project">
+  <h3 class="project-title">{{ cert.title }}</h3>
+  <p class="project-summary">{{ cert.description }}</p>
+  {% if cert.link %}
+    <p><a href="{{ cert.link }}" target="_blank">View Certificate</a></p>
+  {% endif %}
+</div>
