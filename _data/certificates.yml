@@ -1,37 +1,7 @@
-- title: AI Audit & Governance
-  description: Covers EU AI Act and Independent System Audit (IAIAS)
-  category: Responsible AI
+ - title: For Humanity Certified Auditor (FHCA) on EU AI Act
+  description: Independent Audit of AI System according EU AI Act Compliance 
+  category: Human Centric AI development & deployment in EU
   items:
-    - Certified AI Auditor – EU AI Act (2025)
-    - Independent AI System Audit (IAIAS)
+    - Certified Auditor – EU AI Act 
+    - Foundation of Independent Audit of Artificial Intelligent System (IAIAS)
   importance: 1
-  
-- title: TensorFlow Developer  
-  category: DeepLearning.AI / Coursera
-  description: Convolutional Neural Networks, NLP, and Time Series forecasting with TensorFlow.
-  link: https://coursera.org/verify/some-id
-  importance: 2
-
-- title: Cloud & ML Foundations
-  description: Cloud and ML certifications focused on AWS and scalable architecture
-  category: Cloud & Data
-  items:
-    - AWS Cloud Practitioner
-    - Practical Data Science on AWS
-  importance: 3
-
-- title: Agile & Delivery
-  description: Agile product management and transformation delivery
-  category: Project Management
-  items:
-    - Scrum Product Owner
-    - Project Management Institute
-  importance: 4
-
-- title: SAP & Digital Industry
-  description: SAP implementation and data migration capabilities
-  category: SAP & Industry
-  items:
-    - SAP S/4 HANA Production Planning
-    - SAP Data Migration
-  importance: 5
