@@ -17,6 +17,14 @@
       <p class="card-text">{{ cert.description }}</p>
       <p><em>{{ cert.category }}</em></p>
 
+      {% if cert.items %}
+        <ul>
+          {% for item in cert.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
       {% if cert.link %}
         <a href="{{ cert.link }}" target="_blank" class="btn btn-sm btn-primary mt-2">View Certificate</a>
       {% endif %}
