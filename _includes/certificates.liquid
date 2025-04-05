@@ -1,22 +1,8 @@
 <div class="col">
   <div class="card h-100 hoverable">
-
-    {% if cert.img %}
-      {%
-        include figure.liquid
-        loading="eager"
-        path=cert.img
-        sizes="250px"
-        alt="certificate thumbnail"
-        class="card-img-top"
-      %}
-    {% endif %}
-
     <div class="card-body">
       <h2 class="card-title">{{ cert.title }}</h2>
       <p class="card-text">{{ cert.description }}</p>
-      <p><em>{{ cert.category }}</em></p>
-
       {% if cert.items %}
         <ul>
           {% for item in cert.items %}
@@ -24,11 +10,6 @@
           {% endfor %}
         </ul>
       {% endif %}
-
-      {% if cert.link %}
-        <a href="{{ cert.link }}" target="_blank" class="btn btn-sm btn-primary mt-2">View Certificate</a>
-      {% endif %}
     </div>
-
   </div>
 </div>
