@@ -11,3 +11,7 @@ collections:
   pages:
     output: true
     permalink: /:name
+
+title: "William Hartono"
+...
+enable_project_categories: true
