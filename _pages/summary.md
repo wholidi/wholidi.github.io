@@ -4,6 +4,7 @@ title: Summary
 permalink: /summary
 ---
 
+<!--
 <h1>📄 Professional Summary</h1>
 
 ---
@@ -52,3 +53,16 @@ Logistics, Supply Chain, SAP & IT professional with 24+ years, 29 completed proj
 Track record of delivering enterprise-scale transformation projects that minimize risk and optimize ROI.
 
 An excellent relationship manager who inspires cross-functional teams to outperform expectations.
+-->
+
+## Visual Summary
+
+<p align="center">
+  <img src="/assets/img/Projects.jpg" style="width: 80%; border-radius: 8px;">
+</p>
+
+<p align="center">
+  <img src="/assets/img/profile.jpg" style="width: 80%; border-radius: 8px;">
+</p>
+
+
