@@ -55,14 +55,10 @@ Track record of delivering enterprise-scale transformation projects that minimiz
 An excellent relationship manager who inspires cross-functional teams to outperform expectations.
 -->
 
-## Visual Summary
+## ProjectSummary
 
 <p align="center">
   <img src="/assets/img/Projects.jpg" style="width: 80%; border-radius: 8px;">
-</p>
-
-<p align="center">
-  <img src="/assets/img/profile.jpg" style="width: 80%; border-radius: 8px;">
 </p>
 
 <p align="center">
