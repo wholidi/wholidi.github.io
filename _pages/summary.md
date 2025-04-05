@@ -65,4 +65,7 @@ An excellent relationship manager who inspires cross-functional teams to outperf
   <img src="/assets/img/profile.jpg" style="width: 80%; border-radius: 8px;">
 </p>
 
+<p align="center">
+  <img src="/assets/img/Summary.png" style="width: 80%; border-radius: 8px;">
+</p>
 
