@@ -1,24 +1,37 @@
-
-- title: For Humanity Certified Auditor (FHCA)
-  category: Responsible AI & Governance 
-  description: Certified Auditor on EU AI Act Compliance 
+- title: AI Audit & Governance
+  description: Covers EU AI Act and Independent System Audit (IAIAS)
+  category: Responsible AI
   items:
-    - Foundation of Independent Audit of Artificial Intelligent System (FIAAIS)
-    - European Union Artificial Intelligent Act (EU AI Act)
-  link: /https://forhumanity.center/forhumanity-ai-education-and-training-center/
+    - Certified AI Auditor – EU AI Act (2025)
+    - Independent AI System Audit (IAIAS)
   importance: 1
-
-- title: AI Audit and Governance Certification
-  category: ForHumanity / EU AI Act
-  description: Certified AI Auditor under EU AI Act. Risk-based assessment and governance.
-  link: https://forhumanity.center
-
-- title: AWS Cloud Practitioner
-  category: Amazon Web Services
-  description: Cloud fundamentals, security, billing, and architecture on AWS.
-  link: https://aws.amazon.com/certification/certified-cloud-practitioner/
-
-- title: TensorFlow Developer
+  
+- title: TensorFlow Developer  
   category: DeepLearning.AI / Coursera
   description: Convolutional Neural Networks, NLP, and Time Series forecasting with TensorFlow.
   link: https://coursera.org/verify/some-id
+  importance: 2
+
+- title: Cloud & ML Foundations
+  description: Cloud and ML certifications focused on AWS and scalable architecture
+  category: Cloud & Data
+  items:
+    - AWS Cloud Practitioner
+    - Practical Data Science on AWS
+  importance: 3
+
+- title: Agile & Delivery
+  description: Agile product management and transformation delivery
+  category: Project Management
+  items:
+    - Scrum Product Owner
+    - Project Management Institute
+  importance: 4
+
+- title: SAP & Digital Industry
+  description: SAP implementation and data migration capabilities
+  category: SAP & Industry
+  items:
+    - SAP S/4 HANA Production Planning
+    - SAP Data Migration
+  importance: 5
