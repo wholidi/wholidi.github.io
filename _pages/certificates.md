@@ -1,3 +1,4 @@
+<!--
 ---
 layout: default
 title: Certificates
@@ -13,4 +14,5 @@ permalink: /certificates
   <li>Scrum Product Owner</li>
   <li>SAP Production Planning Certification</li>
 </ul>
+-->
 
