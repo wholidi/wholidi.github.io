@@ -1,16 +1,15 @@
-
 ---
 layout: page
 title: Certificates
 permalink: /certificates/
-description: Professional certifications by category
+description: Professional certifications
 nav: true
 nav_order: 4
 ---
 
-<h1>📜 Certificates by Domain</h1>
+<h1>📜 Certificates</h1>
 
-<div class="row row-cols-1 row-cols-md-3">
+<div class="row row-cols-1 row-cols-md-2">
   {% assign sorted_certs = site.data.certificates | sort: "importance" %}
   {% for cert in sorted_certs %}
     {% include certificates.liquid %}
