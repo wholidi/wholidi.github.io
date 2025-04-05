@@ -6,3 +6,8 @@ url: "https://wholidi.github.io"
 github_username: "wholidi"
 linkedin_username: "whartono"
 # theme: jekyll-theme-minimal
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
