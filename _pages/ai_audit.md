@@ -9,7 +9,7 @@ nav: false
 ## 🛡️ ForHumanity Certified Auditor (FHCA)
 
 <button onclick="document.getElementById('modal-fhca').style.display='block'" style="margin: 5px;">
-  View FHCA Certificate
+  FHCA Certificate
 </button>
 
 <div id="modal-fhca" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
@@ -47,7 +47,7 @@ To design, implement, and verify responsible AI governance within EU-regulated e
 ## 🎓 Foundation of Independent Audit of AI Systems (FIAAIS)
 
 <button onclick="document.getElementById('modal-fiaais').style.display='block'" style="margin: 5px;">
-  View FIAAIS Certificate
+  FIAAIS Certificate
 </button>
 
 <div id="modal-fiaais" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
@@ -56,3 +56,18 @@ To design, implement, and verify responsible AI governance within EU-regulated e
     <img src="/assets/img/FIAAIS.png" alt="FIAAIS Certificate" style="width:100%; height:auto; border-radius:8px;">
   </div>
 </div>
+
+---
+
+### Summary
+
+IAAIS is a foundation course for all ForHumanity Certified Auditors and certification programs (FHCAs). 
+
+This course will guide the learner through foundational readings such as Taxonomy, Roles and Responsibilities in an Infrastructure of Trust, #infrastructureoftrust and Rise of the Ethics Committee. 
+Additionally, all non-normative criteria elements of ForHumanity’s Certification Scheme and Audit Manuals will be taught. 
+
+When completed, the learner will be steeped in the foundational knowledge of ForHumanity and its mission
+Independent Audit of AI Systems and the ecosystem that exists to support Audit, Pre-Audit and Auditee compliance with ForHumanity Certification Schemes.
+
+---
+
