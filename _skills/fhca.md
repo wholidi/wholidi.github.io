@@ -29,5 +29,5 @@ ForHumanity Certified Auditors on the EU AI Act. This means that you will be tra
 ---
 
 <figure>
-  <img src="/assets/img/FHCA_EUAIAct.png" alt="FHCA Certificate" style="max-width:100%">
+  <img src="/assets/img/FHCA_EUAIAct.png" alt="FHCA Certificate" style="max-width:50%">
 </figure>
