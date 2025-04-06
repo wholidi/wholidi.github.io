@@ -7,8 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-## AI Audit
-
 <a href="/ai-audit/" style="display:inline-block; padding:10px 20px; background:#007bff; color:white; border-radius:5px; text-decoration:none; margin: 10px 0;">
   AI Audit 
 </a>
