@@ -3,7 +3,6 @@ layout: page
 title: For Humanity Certified Auditor (FHCA) on EU AI Act
 category: Human Centric AI development & deployment in EU
 description: Independent Audit of AI System according to EU AI Act Compliance
-img: /assets/img/FHCA_EUAIAct.png
 importance: 1
 ---
 
