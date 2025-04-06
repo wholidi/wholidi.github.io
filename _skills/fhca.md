@@ -17,11 +17,6 @@ The FHCA certification demonstrates capability in independently auditing AI syst
 - Apply EU AI Act Classification and Compliance Checks
 - Align audit scope to AI value chain and lifecycle
 
-## Certificates
-
-- Certified Auditor – EU AI Act  
-- Foundation of Independent Audit of Artificial Intelligent System (IAIAS)
-
 ---
 
 ForHumanity Certified Auditors on the EU AI Act. This means that you will be trained on each and every audit criteria that ForHumanity has established in its work with CEN/CENELEC JTC 21 and will submit to the EU AIDB for approval. An FHCA on the EU AI Act from ForHumanity will be well equipped to establish a Target of Evaluation and conduct Independent Third Party Audits that will affirm and auditee’s conformity with ForHumanity’s audit criteria – the highest form of comprehensive compliance with the Act available. This course will enable auditors, pre-audit service providers (strategy, guidance, capacity building, change management), employees tasked with meeting the demands of EU AI compliance
