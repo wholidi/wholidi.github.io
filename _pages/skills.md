@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Skills
-permalink: /Skills/
+permalink: /skills/
 description: Certified skills and competencies
 nav: true
 nav_order: 5
