@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Skills
+title: For Humanity Certified Auditor
 permalink: /skills/
 description: Certified skills and competencies
 nav: true
