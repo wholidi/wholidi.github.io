@@ -6,11 +6,11 @@ description: FHCA and FIAAIS certifications and outcomes
 nav: false
 ---
 
-## 🛡️ ForHumanity Certified Auditor (FHCA)
+## ForHumanity Certified Auditor (FHCA)
 
-<button onclick="document.getElementById('modal-fhca').style.display='block'" style="margin: 5px;">
-  FHCA Certificate
-</button>
+<a href="javascript:void(0)" onclick="document.getElementById('modal-fhca').style.display='block'" style="display:inline-block; padding:10px 20px; background:#007bff; color:white; border-radius:6px; text-decoration:none; margin: 5px 0;">
+  View FHCA Certificate
+</a>
 
 <div id="modal-fhca" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
   <div style="margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.5); position:relative;">
@@ -18,6 +18,13 @@ nav: false
     <img src="/assets/img/FHCA_EUAIAct.png" alt="FHCA Certificate" style="width:100%; height:auto; border-radius:8px;">
   </div>
 </div>
+
+<p style="margin-top: 10px;">
+  Learn more at the 
+  <a href="https://forhumanity.center/forhumanity-ai-education-and-training-center/" target="_blank" rel="noopener">
+    ForHumanity AI Education and Training Center
+  </a>.
+</p>
 
 ---
 
@@ -37,7 +44,7 @@ This course empowers:
 
 To design, implement, and verify responsible AI governance within EU-regulated environments.
 
-## 🎓 Foundation of Independent Audit of AI Systems (FIAAIS)
+## Foundation of Independent Audit of AI Systems (FIAAIS)
 
 <button onclick="document.getElementById('modal-fiaais').style.display='block'" style="margin: 5px;">
   FIAAIS Certificate
