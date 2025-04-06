@@ -17,6 +17,12 @@ nav_order: 5
 </div>
 -->
 
+<!-- View Certificates Button -->
+<a href="/AI_Audit/" style="display:inline-block; padding:10px 20px; background:#007bff; color:white; border-radius:5px; text-decoration:none; margin-bottom:30px;">
+   AI Audit
+</a>
+
+
 {% assign grouped_skills = site.skills | group_by: 'category' %}
 
 {% for category in grouped_skills %}
