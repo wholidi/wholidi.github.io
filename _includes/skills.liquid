@@ -1,10 +1,13 @@
 <div class="col">
   <div class="card h-100 hoverable">
+    {% if skill.img %}
+      <img src="{{ skill.img }}" class="card-img-top" alt="Certificate image">
+    {% endif %}
     <div class="card-body">
       <h2 class="card-title">{{ skill.title }}</h2>
       <p class="card-text">{{ skill.description }}</p>
       <p><em>{{ skill.category }}</em></p>
-      <div>{{ skill.content }}</div>
+      <div>{{ skill.content | markdownify }}</div>
     </div>
   </div>
 </div>
