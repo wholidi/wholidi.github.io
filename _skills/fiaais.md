@@ -3,7 +3,6 @@ layout: page
 title: For Humanity Independent Auditor of AI Sytems 
 category: Human Centric Audit on AI System development & deployment
 description: Foundation of Independent Audit of Artificial Intelligent System (FIAIAS)
-img: /assets/img/FIAAIS.png
 importance: 2
 ---
 
@@ -16,3 +15,9 @@ Additionally, all non-normative criteria elements of ForHumanity’s Certificati
 
 When completed, the learner will be steeped in the foundational knowledge of ForHumanity and its mission
 Independent Audit of AI Systems and the ecosystem that exists to support Audit, Pre-Audit and Auditee compliance with ForHumanity Certification Schemes.
+
+---
+
+<figure>
+  <img src="/assets/img/FIAAIS.png" alt="FIAAIS Certificate" style="max-width:50%">
+</figure>
