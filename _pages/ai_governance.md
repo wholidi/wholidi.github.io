@@ -6,7 +6,7 @@ description: Certifications in responsible AI, secure AI, and governance framewo
 nav: false
 ---
 
-## 🧠 AI Governance Certifications
+## AI Governance Certifications
 
 <!-- AI System Audit -->
 <a href="javascript:void(0)" onclick="document.getElementById('modal-ai-sys').style.display='block'" style="display:inline-block; padding:10px 20px; background:#007bff; color:white; border-radius:6px; text-decoration:none; margin: 5px 10px 15px 0;">
