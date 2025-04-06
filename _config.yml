@@ -11,6 +11,9 @@ collections:
   pages:
     output: true
     permalink: /:name
+  skills:
+    output: true
+    permalink: /skills/:name/
 
 title: "William Hartono"
 ...
