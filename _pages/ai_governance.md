@@ -24,7 +24,7 @@ nav: false
   Responsible AI
 </a>
 <div id="modal-responsible-ai" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
-  <div style="margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
+  <div style="position:relative; margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
     <span onclick="document.getElementById('modal-responsible-ai').style.display='none'" style="position:absolute; top:10px; right:20px; font-size:24px; cursor:pointer;">&times;</span>
     <img src="/assets/img/ai-governance/Responsible_AI.png" alt="Responsible AI Certificate" style="width:100%; height:auto; border-radius:8px;">
   </div>
@@ -35,7 +35,7 @@ nav: false
   AI ITOps
 </a>
 <div id="modal-ai-itops" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
-  <div style="margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
+  <div style="position:relative; margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
     <span onclick="document.getElementById('modal-ai-itops').style.display='none'" style="position:absolute; top:10px; right:20px; font-size:24px; cursor:pointer;">&times;</span>
     <img src="/assets/img/ai-governance/AI_ITOps.png" alt="AI ITOps Certificate" style="width:100%; height:auto; border-radius:8px;">
   </div>
@@ -46,7 +46,7 @@ nav: false
   Python AI Audit
 </a>
 <div id="modal-python-audit" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
-  <div style="margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
+  <div style="position:relative; margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
     <span onclick="document.getElementById('modal-python-audit').style.display='none'" style="position:absolute; top:10px; right:20px; font-size:24px; cursor:pointer;">&times;</span>
     <img src="/assets/img/ai-governance/Python_AI_Audit.png" alt="Python AI Audit Certificate" style="width:100%; height:auto; border-radius:8px;">
   </div>
@@ -57,7 +57,7 @@ nav: false
   Algo Audit & Monitor
 </a>
 <div id="modal-algo-audit" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
-  <div style="margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
+  <div style="position:relative; margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
     <span onclick="document.getElementById('modal-algo-audit').style.display='none'" style="position:absolute; top:10px; right:20px; font-size:24px; cursor:pointer;">&times;</span>
     <img src="/assets/img/ai-governance/Algo_Audit_Monitor.png" alt="Algo Audit Monitor Certificate" style="width:100%; height:auto; border-radius:8px;">
   </div>
@@ -68,7 +68,7 @@ nav: false
   AI Principles
 </a>
 <div id="modal-ai-principles" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
-  <div style="margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
+  <div style="position:relative; margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
     <span onclick="document.getElementById('modal-ai-principles').style.display='none'" style="position:absolute; top:10px; right:20px; font-size:24px; cursor:pointer;">&times;</span>
     <img src="/assets/img/ai-governance/AI_Principles.png" alt="AI Principles Certificate" style="width:100%; height:auto; border-radius:8px;">
   </div>
@@ -79,7 +79,7 @@ nav: false
   Responsible Generative AI
 </a>
 <div id="modal-resp-gen-ai" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
-  <div style="margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
+  <div style="position:relative; margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
     <span onclick="document.getElementById('modal-resp-gen-ai').style.display='none'" style="position:absolute; top:10px; right:20px; font-size:24px; cursor:pointer;">&times;</span>
     <img src="/assets/img/ai-governance/Responsible_Gen_AI.png" alt="Responsible Gen AI Certificate" style="width:100%; height:auto; border-radius:8px;">
   </div>
@@ -90,7 +90,7 @@ nav: false
   Secure Generative AI
 </a>
 <div id="modal-secure-gen-ai" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
-  <div style="margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
+  <div style="position:relative; margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
     <span onclick="document.getElementById('modal-secure-gen-ai').style.display='none'" style="position:absolute; top:10px; right:20px; font-size:24px; cursor:pointer;">&times;</span>
     <img src="/assets/img/ai-governance/Secure_Gen_AI.png" alt="Secure Gen AI Certificate" style="width:100%; height:auto; border-radius:8px;">
   </div>
@@ -101,7 +101,7 @@ nav: false
   NIST AI RMF
 </a>
 <div id="modal-nist-ai-rmf" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
-  <div style="margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
+  <div style="position:relative; margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
     <span onclick="document.getElementById('modal-nist-ai-rmf').style.display='none'" style="position:absolute; top:10px; right:20px; font-size:24px; cursor:pointer;">&times;</span>
     <img src="/assets/img/ai-governance/NIST_AI_RMF.png" alt="NIST AI RMF Certificate" style="width:100%; height:auto; border-radius:8px;">
   </div>
