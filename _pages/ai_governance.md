@@ -13,7 +13,7 @@ nav: false
   AI System Audit
 </a>
 <div id="modal-ai-sys" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
-  <div style="margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
+  <div style="position:relative; margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
     <span onclick="document.getElementById('modal-ai-sys').style.display='none'" style="position:absolute; top:10px; right:20px; font-size:24px; cursor:pointer;">&times;</span>
     <img src="/assets/img/ai-governance/AI_Sys_Audit.png" alt="AI System Audit Certificate" style="width:100%; height:auto; border-radius:8px;">
   </div>
