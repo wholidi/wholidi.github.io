@@ -19,4 +19,5 @@ nav_order: 5
   <a href="/azure/" style="display:inline-block; padding:10px 20px; background:#17a2b8; color:white; border-radius:5px; text-decoration:none;">
     Azure
   </a>
+  
 </div>
