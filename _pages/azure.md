@@ -15,7 +15,7 @@ nav: true
 <div id="modal-azure-vision" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
   <div style="position:relative; margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
     <span onclick="document.getElementById('modal-azure-vision').style.display='none'" style="position:absolute; top:10px; right:20px; font-size:24px; cursor:pointer;">&times;</span>
-    <img src="/assets/img/Azure/AI900 Azure Computer Vision.png" alt="Azure Computer Vision Certificate" style="width:100%; height:auto; border-radius:8px;">
+    <img src="/assets/img/Azure/AI900_Azure_Computer_Vision.png" alt="Azure Computer Vision Certificate" style="width:100%; height:auto; border-radius:8px;">
   </div>
 </div>
 
@@ -26,7 +26,7 @@ nav: true
 <div id="modal-azure-conv" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
   <div style="position:relative; margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
     <span onclick="document.getElementById('modal-azure-conv').style.display='none'" style="position:absolute; top:10px; right:20px; font-size:24px; cursor:pointer;">&times;</span>
-    <img src="/assets/img/Azure/AI900 Azure Conversational AI.png" alt="Azure Conversational AI Certificate" style="width:100%; height:auto; border-radius:8px;">
+    <img src="/assets/img/Azure/AI900_Azure_Conversational_AI.png" alt="Azure Conversational AI Certificate" style="width:100%; height:auto; border-radius:8px;">
   </div>
 </div>
 
@@ -37,7 +37,7 @@ nav: true
 <div id="modal-azure-ml" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
   <div style="position:relative; margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
     <span onclick="document.getElementById('modal-azure-ml').style.display='none'" style="position:absolute; top:10px; right:20px; font-size:24px; cursor:pointer;">&times;</span>
-    <img src="/assets/img/Azure/AI900 Azure Principle of Machine Learning.png" alt="Azure Principle of ML Certificate" style="width:100%; height:auto; border-radius:8px;">
+    <img src="/assets/img/Azure/AI900_Azure_Principle_of_Machine_Learning.png" alt="Azure Principle of ML Certificate" style="width:100%; height:auto; border-radius:8px;">
   </div>
 </div>
 
@@ -48,7 +48,7 @@ nav: true
 <div id="modal-azure-arch" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
   <div style="position:relative; margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
     <span onclick="document.getElementById('modal-azure-arch').style.display='none'" style="position:absolute; top:10px; right:20px; font-size:24px; cursor:pointer;">&times;</span>
-    <img src="/assets/img/Azure/AZ900 Azure Architecture and Service.png" alt="Azure Architecture Certificate" style="width:100%; height:auto; border-radius:8px;">
+    <img src="/assets/img/Azure/AZ900_Azure_Architecture_and_Service.png" alt="Azure Architecture Certificate" style="width:100%; height:auto; border-radius:8px;">
   </div>
 </div>
 
@@ -59,6 +59,6 @@ nav: true
 <div id="modal-azure-govern" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
   <div style="position:relative; margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
     <span onclick="document.getElementById('modal-azure-govern').style.display='none'" style="position:absolute; top:10px; right:20px; font-size:24px; cursor:pointer;">&times;</span>
-    <img src="/assets/img/Azure/AZ900 Azure Management and Governance.png" alt="Azure Management Certificate" style="width:100%; height:auto; border-radius:8px;">
+    <img src="/assets/img/Azure/AZ900_Azure_Management_and_Governance.png" alt="Azure Management Certificate" style="width:100%; height:auto; border-radius:8px;">
   </div>
 </div>
