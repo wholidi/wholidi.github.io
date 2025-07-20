@@ -32,4 +32,9 @@ nav_order: 5
     Agile
   </a>
 
+  <a href="/architect/" style="display:inline-block; padding:10px 20px; background:#6f42c1; color:white; border-radius:5px; text-decoration:none;">
+    Architect
+  </a>
+
+
 </div>
