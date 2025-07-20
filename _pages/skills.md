@@ -44,4 +44,8 @@ nav_order: 5
   ChatGPT
   </a>
 
+   <a href="/dlai/" style="display:inline-block; padding:10px 20px; background:#007bff; color:white; border-radius:5px; text-decoration:none;">
+    Deep Learning AI
+  </a>
+
 </div>
