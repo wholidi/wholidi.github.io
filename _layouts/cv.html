@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="cv">
+
+  <section id="about">
+    <h2>About</h2>
+    <h3>{{ site.data.cv.about.tagline }}</h3>
+    <p>{{ site.data.cv.about.summary }}</p>
+  </section>
+
+  <section id="certifications">
+    <h2>Certifications</h2>
+    {% for cert in site.data.cv.certifications %}
+      <h3>{{ cert.year }}</h3>
+      <ul>
+        {% for item in cert.items %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    {% for project in site.data.cv.projects %}
+      <div class="cv-entry">
+        <h3>{{ project.name }} — {{ project.role }}</h3>
+        <p><em>{{ project.industry }}</em></p>
+        {% if project.clients %}
+          <ul>
+            {% for client in project.clients %}
+              <li>{{ client }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </section>
+
+</div>
