@@ -49,7 +49,11 @@ nav_order: 5
   </a>
 
    <a href="/data_bricks/" style="display:inline-block; padding:10px 20px; background:#ff6f00; color:white; border-radius:5px; text-decoration:none;">
-  Data Bricks
+    Data Bricks
+</a>
+
+   <a href="/devops/" style="display:inline-block; padding:10px 20px; background:#fd7e14; color:white; border-radius:5px; text-decoration:none;">
+    DevOps
 </a>
 
 </div>
