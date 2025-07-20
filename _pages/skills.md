@@ -72,4 +72,8 @@ nav_order: 5
     ISACA
 </a>
 
+   <a href="/llm/" style="display:inline-block; padding:10px 20px; background:#343a40; color:white; border-radius:5px; text-decoration:none; margin: 5px;">
+    LLM
+</a>
+
 </div>
