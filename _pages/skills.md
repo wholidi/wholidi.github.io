@@ -48,4 +48,8 @@ nav_order: 5
     Deep Learning AI
   </a>
 
+   <a href="/data_bricks/" style="display:inline-block; padding:10px 20px; background:#ff6f00; color:white; border-radius:5px; text-decoration:none;">
+  Data Bricks
+</a>
+
 </div>
