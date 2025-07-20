@@ -23,5 +23,9 @@ nav_order: 5
   <a href="/ai_pm/" style="display:inline-block; padding:10px 20px; background:#6f42c1; color:white; border-radius:5px; text-decoration:none;">
     AI for PM
   </a>
-  
+
+  <a href="/aws/" style="display:inline-block; padding:10px 20px; background:#ff9900; color:white; border-radius:5px; text-decoration:none;">
+    AWS
+  </a>
+
 </div>
