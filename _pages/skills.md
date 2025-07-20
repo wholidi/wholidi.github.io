@@ -80,4 +80,8 @@ nav_order: 5
     MLOps
 </a>
 
+   <a href="/sap/" style="display:inline-block; padding:10px 20px; background:#0e3c7e; color:white; border-radius:5px; text-decoration:none; margin: 5px;">
+    SAP
+</a>
+
 </div>
