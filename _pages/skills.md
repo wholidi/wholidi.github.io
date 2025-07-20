@@ -60,4 +60,8 @@ nav_order: 5
     Foundation
 </a>
 
+   <a href="/github/" style="display:inline-block; padding:10px 20px; background:#24292e; color:white; border-radius:5px; text-decoration:none;">
+    GitHub
+</a>
+
 </div>
