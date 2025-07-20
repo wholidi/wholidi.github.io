@@ -84,4 +84,8 @@ nav_order: 5
     SAP
 </a>
 
+   <a href="/seagate/" style="display:inline-block; padding:10px 20px; background:#17a2b8; color:white; border-radius:5px; text-decoration:none;">
+    Data Scientist
+</a>
+
 </div>
