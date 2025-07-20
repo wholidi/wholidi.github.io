@@ -27,7 +27,7 @@ layout: default
     {% for project in site.data.cv.projects %}
       <div class="cv-entry">
         <h3>{{ project.name }} — {{ project.role }}</h3>
-        <p><em>{{ project.industry }}</em></p>
+        <p><em style="font-size: 1em;">{{ project.industry }}</em></p>
         {% if project.clients %}
           <ul>
             {% for client in project.clients %}
