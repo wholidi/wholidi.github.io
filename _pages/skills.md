@@ -76,4 +76,8 @@ nav_order: 5
     LLM
 </a>
 
+   <a href="/mlops/" style="display:inline-block; padding:10px 20px; background:#007bff; color:white; border-radius:5px; text-decoration:none;">
+    MLOps
+</a>
+
 </div>
