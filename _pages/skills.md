@@ -88,4 +88,8 @@ nav_order: 5
     Data Scientist
 </a>
 
+   <a href="/threat/" style="display:inline-block; padding:10px 20px; background:#dc3545; color:white; border-radius:5px; text-decoration:none; margin: 5px 10px 15px 0;">
+    Threat Modeling
+</a>
+
 </div>
