@@ -59,7 +59,7 @@ nav: true
 <div id="modal-scaling-genai" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;">
   <div style="position:relative; margin:5% auto; padding:20px; background:#fff; width:90%; max-width:800px; border-radius:12px;">
     <span onclick="document.getElementById('modal-scaling-genai').style.display='none'" style="position:absolute; top:10px; right:20px; font-size:24px; cursor:pointer;">&times;</span>
-    <img src="/assets/img/AI_PM/Scaling_Generative_AI_Building_Strategy_for_Adoption_and_Expansion.png" alt="Scaling Generative AI" style="width:100%; height:auto; border-radius:8px;">
+    <img src="/assets/img/AI_PM/Scaling_Generative_AI_Building_Strategy_for_Adoption_and_ Expansion.png" alt="Scaling Generative AI" style="width:100%; height:auto; border-radius:8px;">
   </div>
 </div>
 
