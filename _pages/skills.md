@@ -64,4 +64,8 @@ nav_order: 5
     GitHub
 </a>
 
+   <a href="/hacking/" style="display:inline-block; padding:10px 20px; background:#dc3545; color:white; border-radius:5px; text-decoration:none;">
+    Hacking
+</a>
+
 </div>
