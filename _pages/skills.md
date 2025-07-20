@@ -28,4 +28,8 @@ nav_order: 5
     AWS
   </a>
 
+  <a href="/agile/" style="display:inline-block; padding:10px 20px; background:#e83e8c; color:white; border-radius:5px; text-decoration:none;">
+    Agile
+  </a>
+
 </div>
