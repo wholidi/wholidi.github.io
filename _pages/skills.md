@@ -56,4 +56,8 @@ nav_order: 5
     DevOps
 </a>
 
+   <a href="/foundation/" style="display:inline-block; padding:10px 20px; background:#6c757d; color:white; border-radius:5px; text-decoration:none;">
+    Foundation
+</a>
+
 </div>
