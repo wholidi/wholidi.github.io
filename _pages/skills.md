@@ -36,5 +36,8 @@ nav_order: 5
     Architect
   </a>
 
+  <a href="/block_chain/" style="display:inline-block; padding:10px 20px; background:#343a40; color:white; border-radius:5px; text-decoration:none;">
+    Blockchain
+  </a>
 
 </div>
