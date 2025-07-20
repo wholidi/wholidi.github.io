@@ -92,4 +92,8 @@ nav_order: 5
     Threat Modeling
 </a>
 
+   <a href="/ai_ux/" style="display:inline-block; padding:10px 20px; background:#20c997; color:white; border-radius:5px; text-decoration:none;">
+  AI UX
+</a>
+
 </div>
