@@ -2,7 +2,7 @@
 layout: page
 title: AI for Project Managers
 permalink: /ai_pm/
-description: AI & Generative AI Certifications for Project Managers
+description: AI Certifications for Project Managers
 nav: true
 ---
 
