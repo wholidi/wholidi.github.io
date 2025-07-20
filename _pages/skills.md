@@ -20,7 +20,7 @@ nav_order: 5
     Azure
   </a>
 
-  <a href="/ai-pm/" style="display:inline-block; padding:10px 20px; background:#6f42c1; color:white; border-radius:5px; text-decoration:none;">
+  <a href="/ai_pm/" style="display:inline-block; padding:10px 20px; background:#6f42c1; color:white; border-radius:5px; text-decoration:none;">
     AI for PM
   </a>
   
