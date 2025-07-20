@@ -1,0 +1,122 @@
+about:
+  tagline: >-
+    DIGITAL TRANSFORMATION - Certified AI Auditor (HFCA) - MACHINE LEARNING - TENSOR FLOW - PYTORCH - AGILE - LEAN - DATA SCIENTIST - SAP S/4 HANA - PLM - MES - SOLUTION DESIGNER – INTEGRATION – SUPPLY CHAIN - MANAGER
+  summary: >-
+    Digital Transformation & AI Audit Leader | 24+ Years | 29 Projects | 55 Countries
+    Digital Transformation and AI Audit professional with over two decades of experience driving enterprise-scale innovation across logistics, supply chain, and manufacturing. My journey spans 29 successful global projects in 55 countries, leading cross-functional teams in the integration of AI, ML, MLOps, SAP S/4HANA, and Cloud into complex business ecosystems.
+    I thrive in bridging the gap between cutting-edge technology and business outcomes. Driving Smart Factory IoT Solution, modernizing pharmaceutical compliance, Digitally transforming product lifecycles, I bring a proven track record of delivering results through collaboration, clarity, and continuous learning.
+    Certified EU AI Act by @ForHumanity, actively exploring collaborations around AI system audits, AI risk management, and Ethical sustainable AI adoption.
+    AI governance, Responsible AI adoption, and the EU AI Act, I specialize in designing audit-ready AI/ML strategies that align with business objectives and compliance frameworks. Certified in AI Audit, AWS, DevOps, and Scrum, and skilled in tools like TensorFlow, PyTorch, and Python.
+
+certifications:
+  - year: 2025
+    items:
+      - EU AI Act – ForHumanity Certified Auditor
+      - Independent AI System Audit – For Humanity
+  - year: 2024
+    items:
+      - Scaling Generative AI: Strategy for Adoption and Expansion
+      - Decision Intelligence – Data-Driven Decision Making
+      - ML SecOps & Securing Generative AI
+      - Practical Data Science on the AWS Cloud Specialization
+      - SAP Generative Artificial Intelligence / AI Ethics
+  - year: 2023
+    items:
+      - AWS Cloud Practitioner & Technical Essentials
+      - Career Essentials in Generative AI
+      - DevOps Foundations: Lean, Agile, Monitoring, SRE
+      - Machine Learning Engineering (MLOps) for Production
+      - Deep Learning AI – TensorFlow Developer Specialization
+      - Intro to TF for AI, ML, DL
+      - CNNs in TensorFlow
+      - Natural Language Processing
+      - Sequences, Time Series, Prediction
+      - Machine Learning – Andrew Ng (Stanford)
+  - year: 2022
+    items:
+      - Supervised Learning, Regression, Classification
+      - Advanced Learning Algorithms
+      - Unsupervised Learning, Recommenders, Reinforcement Learning
+      - Deep Learning Specialization – Andrew Ng
+      - Neural Networks & Deep Learning
+      - Hyperparameter Tuning & Optimization
+      - ML Project Structuring
+      - CNNs & Sequence Models
+      - AI & Machine Learning Foundation
+      - Professional Scrum Product Owner
+  - year: 2021
+    items:
+      - Seagate Citizen Data Scientist – Python Programming
+      - SAP S/4 HANA Modelling and Data Migration
+  - year: 2002
+    items:
+      - SAP Production Planning Certification
+  - year: 2000
+    items:
+      - Bachelor of Industrial Engineering
+
+projects:
+  - name: SEAGATE
+    role: Digital Factory Planning Lead
+    industry: Data Storage
+  - name: KPMG for DOLE
+    role: Digital Data Transformation Lead
+    industry: Agriculture & Fresh Fruit
+  - name: Orica
+    role: Data Management Lead
+    industry: Mining & Explosive
+  - name: L’OREAL
+    role: Supply Chain Optimization Lead
+    industry: Travel Retail
+  - name: JOHNSON & JOHNSON
+    role: Logistic and Agile Project Manager
+    industry: Pharma
+  - name: SEMPERIT AG
+    role: Logistics Transformation Lead
+    industry: Medical
+  - name: CEREBOS
+    role: SAP Logistics, Integration & Change Management Lead
+    industry: Food
+  - name: BHP Billiton
+    role: SAP Supply Chain Training
+    industry: Mining
+  - name: IBM for PFIZER
+    role: SAP Data Conversion, Quality & Supply Chain Lead
+    industry: Pharmaceutical
+  - name: SYNGENTA
+    role: SAP Integration & Change Management Lead
+    industry: Agro
+  - name: SAP for BUMI MAKMUR
+    role: SAP Procurement Lead
+    industry: Mining
+  - name: OMG
+    role: SAP MM PP Lead
+    industry: Chemical
+  - name: JW SPRINGS
+    role: SAP MM PP Lead
+    industry: Manufacture
+  - name: Roll Royce
+    role: SAP PP Lead
+    industry: Engine & Propulsion Drive
+  - name: SANOFI AVENTIS
+    role: SAP PP QM Lead
+    industry: Pharma
+  - name: Soltius
+    role: SAP Logistics & Communication Lead
+    industry: IT Consulting
+    clients:
+      - KRAKATAU STEEL - Steel Mills
+      - SAP - A1 software template
+      - PEC - TEC - Engineering Service
+      - DKSH - Retail / Distribution
+      - AKIAT - Realtor
+      - SARI HUSADA - Dairy
+      - DYNAPLAST - Plastics
+      - BELFOODS - Frozen Foods
+      - MBAI - Chicken Farming
+      - SANTORI - Cattle Farming
+      - EISAI - Pharma
+      - WGI - Oil Refinery
+      - ECCO - AFS Manufacture
+  - name: CADBURY
+    role: Confectionery & FMCG
