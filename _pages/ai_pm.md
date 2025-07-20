@@ -6,7 +6,7 @@ description: AI & Generative AI Certifications for Project Managers
 nav: true
 ---
 
-## AI & Generative AI for Project Managers
+## AI for Project Managers
 
 <!-- AI for Project Managers -->
 <a href="javascript:void(0)" onclick="document.getElementById('modal-ai-pm').style.display='block'" style="display:inline-block; padding:10px 20px; background:#007bff; color:white; border-radius:6px; text-decoration:none; margin: 5px 10px 15px 0;">
