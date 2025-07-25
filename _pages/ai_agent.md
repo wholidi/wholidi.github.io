@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI Agent
-permalink: /ai-agent/
+permalink: /ai_agent/
 description: AI Agent Certifications
 nav: true
 ---
