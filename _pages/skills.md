@@ -16,6 +16,10 @@ nav_order: 5
     AI Governance
   </a>
 
+  <a href="/ai_agent/" style="display:inline-block; padding:10px 20px; background:#17a2b8; color:white; border-radius:5px; text-decoration:none;">
+  AI Agent
+  </a>
+
   <a href="/azure/" style="display:inline-block; padding:10px 20px; background:#17a2b8; color:white; border-radius:5px; text-decoration:none;">
     Azure
   </a>
@@ -95,5 +99,7 @@ nav_order: 5
    <a href="/ai_ux/" style="display:inline-block; padding:10px 20px; background:#20c997; color:white; border-radius:5px; text-decoration:none;">
   AI UX
 </a>
+
+
 
 </div>
