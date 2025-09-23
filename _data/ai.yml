@@ -38,12 +38,15 @@ contact:
 projects:
   - title: AI Verify – AI Audit & Governance
     link: "https://github.com/aiverify-foundation/aiverify"
+    link: "https://github.com/wholidi/Project/tree/main/AIverify"
     description: "Deployed AI Verify on AWS EC2 to validate ML models against fairness, transparency, and EU AI Act principles."
   - title: Minervini Predicted Stock Trading
     link: "https://www.minervini.com/"
+    link: "https://github.com/wholidi/Project/tree/main/Minervini"
     description: "Implemented momentum-based screening strategy inspired by Mark Minervini’s breakout and base-building logic."
   - title: PowerX Predicted Stock Trading
     link: "http://markus-heitkoetter.com/Links"
+    link: "https://github.com/wholidi/Project/tree/main/PowerX_Scanner"
     description: "Built PowerX-inspired stock screener using indicators like MACD, RSI, and Stochastics. Extended with LSTM prediction."
   - title: Predicted Stock Trading Trend Classifier
     description: "Developed a trend classification model using OHLCV data and machine learning to label uptrend/downtrend/sideways."
@@ -52,4 +55,8 @@ projects:
     description: "Designed an agentic AI assistant that builds travel itineraries using LLM-driven reasoning and external data APIs."
   - title: Auto GPT - Agentic AI - Open Source
     link: "https://github.com/Significant-Gravitas/AutoGPT"
+    link: "https://github.com/wholidi/Project/tree/main/Agentic%20AI/Auto%20GPT"
     description: "AutoGPT deployment in AWS EC2 Instance with Open AI GPT-4 for LLM and Agentic AI task automation."
+  - title: PDF to Audio Book 
+    link: "https://github.com/wholidi/Project/tree/main/PDF_to_Audio"
+    description: "Convert any PDF into a chapterized audiobook with a female voice, tidy filenames, and ID3 tags — all from the command line on Windows."
