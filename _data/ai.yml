@@ -48,6 +48,7 @@ projects:
   - title: Predicted Stock Trading Trend Classifier
     description: "Developed a trend classification model using OHLCV data and machine learning to label uptrend/downtrend/sideways."
   - title: Agentic AI Trip Planner
+    link: "https://github.com/wholidi/Project/tree/main/Agentic%20AI/Trip_Planner"
     description: "Designed an agentic AI assistant that builds travel itineraries using LLM-driven reasoning and external data APIs."
   - title: Auto GPT - Agentic AI - Open Source
     link: "https://github.com/Significant-Gravitas/AutoGPT"
