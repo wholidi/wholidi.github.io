@@ -60,9 +60,7 @@ projects:
   - title: PDF to Audio Book 
     link: "https://github.com/wholidi/Project/tree/main/PDF_to_Audio"
     description: "Convert any PDF into a chapterized audiobook with a female voice, tidy filenames, and ID3 tags — all from the command line on Windows."
-- name: "GenAI Multi-Agent Security Scanner (LLM × AppSec)"
-  repo: "https://github.com/wholidi/Project/tree/main/Agentic%20AI/GenAI_Multi_Agent_Sec"
-  description: >
-    Implemented a multi-agent AppSec pipeline using LLM reasoning to detect vulnerabilities
-    in source code. The system executes a coordinated agent workflow that performs static
-    analysis, severity normalization, OWASP category mapping, and security summarization.
+  - title: GenAI Multi-Agent Security Scanner (LLM × AppSec)
+    link: "https://github.com/wholidi/Project/tree/main/Agentic%20AI/GenAI_Multi_Agent_Sec"
+    description: "Implemented a multi-agent AppSec pipeline using LLM reasoning to detect vulnerabilitiesin source code."
+                 "The system executes a coordinated agent workflow that performs static analysis, severity normalization, OWASP category mapping and security summarization."
