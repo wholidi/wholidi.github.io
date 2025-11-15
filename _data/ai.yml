@@ -63,4 +63,4 @@ projects:
   - title: GenAI Multi-Agent Security Scanner (LLM × AppSec)
     link: "https://github.com/wholidi/Project/tree/main/Agentic%20AI/GenAI_Multi_Agent_Sec"
     description: "Implemented a multi-agent AppSec pipeline using LLM reasoning to detect vulnerabilitiesin source code."
-                 "The system executes a coordinated agent workflow that performs static analysis, severity normalization, OWASP category mapping and security summarization."
+                 "The system executes a coordinated agent workflow that performs static analysis, severity normalization, OWASP category mapping, security summarization."
