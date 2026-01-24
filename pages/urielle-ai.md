@@ -2,35 +2,31 @@
 layout: page
 title: "Urielle AI"
 permalink: /urielle-ai/
-description: "Introducing Urielle AI — advancing trustworthy and human-aligned AI"
+description: "Urielle AI — Official site and ecosystem links"
 nav: true
 ---
 
 # Urielle AI
 
-**Urielle AI** is a new initiative dedicated to AI Safety, Governance, and Compliance.
+🌐 **Official Website (live):**  
+👉 https://urielle-ai.com/
 
-Our mission is to ensure that the next generation of AI systems remains:
-- **Responsible**
-- **Transparent**
-- **Accountable**
-- **Aligned with Human Values**
+This GitHub Pages entry is maintained as a **reference + portfolio gateway** (not the primary website).
 
 ---
 
-## 🌐 Visit the Official Site
-We are building a dedicated site here:  
-👉 **https://urielle-ai.com** (coming soon)
+## What Urielle-AI focuses on
+
+- AI Governance & Audit
+- GenAI Security & Safety
+- AI Assurance / Risk & Compliance Engineering
+- AI-Thara (AI governance storytelling framework)
+
+For services, blog, portfolio, AI-Thara, and contact — use the official website above.
 
 ---
 
-## ⭐ What We Do
-- AI Governance Advisory  
-- EU AI Act Readiness & Auditing  
-- Multi-Agent Evaluation Frameworks  
-- AI Risk Monitoring & Policy Integration  
+## Useful links
 
----
-
-If you'd like to collaborate or learn more, feel free to reach out:
-📩 Email — info@urielle-ai.com  
+- GitHub (wholidi): https://github.com/wholidi
+- Email: wholidipro@urielle-ai.com
