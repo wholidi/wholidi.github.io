@@ -58,6 +58,25 @@ An excellent relationship manager who inspires cross-functional teams to outperf
 <!--
 ## Project Summary
 -->
+<div style="text-align:right; margin: 10px 10% 12px;">
+  <a
+    href="https://wholidi.github.io/ai-resume/William_Hartono_AI.pdf"
+    download
+    style="
+      display:inline-block;
+      padding:6px 14px;
+      border-radius:10px;
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.12);
+      color:#e5e7eb;
+      text-decoration:none;
+      font-weight:600;
+      font-size:14px;
+    "
+  >
+    ⬇ CV
+  </a>
+</div>
 
 <p align="center">
   <img src="/assets/img/Projects.jpg" style="width: 80%; border-radius: 8px;">
