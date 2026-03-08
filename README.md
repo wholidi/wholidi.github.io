@@ -1,4 +1,4 @@
-# William Hartono — AI Audit | Digital Transformation | SAP | Cloud
+# William Hartono — AI Governance & Safety | Certified AI Auditor (FHCA) | EU AI Act | Bridging Enterprise Digital Transformation & AI Risk
 
 Welcome to my personal professional site, powered by GitHub Pages and built for sharing my experience, certifications, and AI governance journey.
 
