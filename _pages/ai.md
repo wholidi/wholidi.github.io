@@ -1,6 +1,6 @@
 ---
 layout: ai
-title: AI Audit & Governance
+title: Applied AI Systems
 permalink: /ai/
 ---
 
