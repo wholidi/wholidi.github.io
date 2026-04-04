@@ -1,67 +1,175 @@
-title: AI Audit & Governance Services
-tagline: Build Trust. Ensure Compliance. Unlock Responsible AI.
+# Applied AI Systems
 
-overview: >
-  With over 24 years of experience in digital transformation and 29 successful projects across 55 countries, I bring deep cross-industry expertise in AI, MLOps, SAP S/4HANA, and compliance-driven IT systems. I now offer AI Audit & Governance Services tailored for organizations seeking to align their AI initiatives with ethical, legal, and operational excellence.
+**Runtime monitoring, control layers, and governance systems for real-world AI deployments.**
+Production-oriented AI systems for runtime monitoring, governance, agentic workflows, and enterprise risk control.
 
-core_offerings:
-  - title: AI System Audit & Risk Assessment
-    items:
-      - Assess AI models and systems using the EU AI Act and NIST AI RMF
-      - Analyze model lifecycle: training data, bias, fairness, robustness, and explainability
-      - Deliver actionable audit reports with traceability and risk classifications
-  - title: Responsible AI & Governance Frameworks
-    items:
-      - Implement AI governance processes aligned to organizational needs
-      - Define roles, responsibilities, and documentation across AI/ML lifecycle
-      - Support implementation of ethical AI principles and transparency requirements
-  - title: Compliance Readiness
-    items:
-      - Audit preparedness for EU AI Act, GDPR, and industry-specific regulations (e.g., pharma, manufacturing)
-      - Threat modeling and risk mitigation planning for high-risk AI systems
-  - title: MLOps & Data Governance Alignment
-    items:
-      - Design operational controls for data quality, drift monitoring, and model versioning
-      - Integrate compliance into DevOps pipelines and ML workflows
+## Overview
 
-why_work_with_me:
-  - Proven leadership in global transformation projects for Seagate, Johnson & Johnson, Orica, and more
-  - Certified in AI Audit, AWS Cloud, MLOps, and Scrum Product Ownership
-  - Expertise in AI/ML implementation, from strategy to execution, within regulated industries
-  - Hands-on knowledge in Generative AI, TensorFlow, PyTorch, and SAP S/4HANA integration
+I build applied AI systems that focus on how models and agents behave in real environments, not only how they perform in isolated demos.
 
-contact:
-  linkedin: "https://linkedin.com/in/whartono"
-  github: "https://github.com/wholidi"
-  message: "Ready to collaborate? Let’s discuss your AI audit and governance needs."
+My work sits at the intersection of:
+- AI safety and runtime monitoring
+- governance and auditability
+- agentic systems and control layers
+- enterprise deployment and operational risk
 
-projects:
-  - title: AI Verify – AI Audit & Governance
-    link: "https://github.com/aiverify-foundation/aiverify"
-    link: "https://github.com/wholidi/Project/tree/main/AIverify"
-    description: "Deployed AI Verify on AWS EC2 to validate ML models against fairness, transparency, and EU AI Act principles."
-  - title: Minervini Predicted Stock Trading
-    link: "https://www.minervini.com/"
-    link: "https://github.com/wholidi/Project/tree/main/Minervini"
-    description: "Implemented momentum-based screening strategy inspired by Mark Minervini’s breakout and base-building logic."
-  - title: PowerX Predicted Stock Trading
-    link: "http://markus-heitkoetter.com/Links"
-    link: "https://github.com/wholidi/Project/tree/main/PowerX_Scanner"
-    description: "Built PowerX-inspired stock screener using indicators like MACD, RSI, and Stochastics. Extended with LSTM prediction."
-  - title: Predicted Stock Trading Trend Classifier
-    description: "Developed a trend classification model using OHLCV data and machine learning to label uptrend/downtrend/sideways."
-  - title: Agentic AI Trip Planner
-    link: "https://github.com/wholidi/Project/tree/main/Agentic%20AI/Trip_Planner"
-    description: "Designed an agentic AI assistant that builds travel itineraries using LLM-driven reasoning and external data APIs."
-  - title: Auto GPT - Agentic AI - Open Source
-    link: "https://github.com/Significant-Gravitas/AutoGPT"
-    link: "https://github.com/wholidi/Project/tree/main/Agentic%20AI/Auto%20GPT"
-    description: "AutoGPT deployment in AWS EC2 Instance with Open AI GPT-4 for LLM and Agentic AI task automation."
-  - title: PDF to Audio Book 
-    link: "https://github.com/wholidi/Project/tree/main/PDF_to_Audio"
-    description: "Convert any PDF into a chapterized audiobook with a female voice, tidy filenames, and ID3 tags — all from the command line on Windows."
-  - title: "GenAI Multi-Agent Security Scanner (LLM × AppSec)"
-    link: "https://github.com/wholidi/Project/tree/main/Agentic%20AI/GenAI_Multi_Agent_Sec"
-    description: "Multi-agent AppSec pipeline using LLM reasoning to detect vulnerabilities in source code, with ScanAgent, RiskClassifierAgent, SummaryAgent, and a Coordinator for workflow tracing. Supports single-file and ZIP uploads, Swagger API, HTML reporting, and Windows automation scripts."
+This portfolio highlights systems designed to make AI more observable, controllable, and deployment-ready.
+
+---
+
+## Featured System
+
+### LLM Runtime Risk Monitoring & Attack Detection System
+https://github.com/wholidi/llm-attack-detection-dashboard
+A monitoring and triage system for detecting high-risk behavior in LLM applications and agentic workflows.
+
+**What it does**
+- detects prompt injection, jailbreak, and policy bypass attempts
+- flags sensitive data exfiltration patterns
+- identifies suspicious tool usage and memory access behavior
+- assigns severity, confidence, and analyst-oriented triage fields
+- produces audit-ready evidence for runtime governance workflows
+
+**Why it matters**
+Traditional AI governance often focuses on policy and documentation. This system focuses on runtime behavior, where many AI failures actually emerge.
+
+**Core capabilities**
+- rule-based detection engine
+- SOC-style incident model
+- analyst triage workflow
+- governance control mapping
+- exportable incident evidence
+
+---
+
+## AI Safety & Governance Systems
+
+### AI Verify on AWS
+https://github.com/wholidi/Project/tree/main/AIverify
+Deployed AI Verify in a working AWS environment to evaluate ML systems against fairness, transparency, and responsible AI principles.
+
+**Focus**
+- governance-oriented model evaluation
+- validation workflow setup
+- audit and evidence generation
+
+### Dev Guardian – AI Assurance & Control Engine
+https://github.com/wholidi/dev-guardian
+A governance-oriented control and audit engine that translates AI system behavior into structured risk signals, control mappings, and audit-ready evidence.
+
+**Focus**
+- runtime risk summarization
+- control mapping (EU AI Act / NIST AI RMF)
+- structured audit outputs (risk_summary.md)
+- governance signal generation for AI systems
+
+**Role in Architecture**
+Acts as the audit and assurance layer, transforming runtime events into governance evidence and compliance-ready artifacts.
+
+### GenAI Multi-Agent Security Scanner
+https://github.com/wholidi/Project/tree/main/Agentic%20AI/GenAI_Multi_Agent_Sec
+A multi-agent application security workflow using LLM reasoning to detect, classify, and report code risk.
+
+**Focus**
+- AI-assisted security analysis
+- risk classification
+- workflow traceability
+- structured reporting
+
+---
+
+## Agentic & Applied AI Systems
+
+### Agentic Workflow Systems
+https://github.com/wholidi/Project/tree/main/Agentic%20AI/Auto%20GPT
+Exploration of LLM-driven assistants and AutoGPT-style orchestration for autonomous task execution.
+
+**Focus**
+- agent control challenges
+- tool usage behavior
+- reliability and oversight
+- external API orchestration
+
+### Agentic AI Trip Planner
+https://github.com/wholidi/Project/tree/main/Agentic%20AI/Trip_Planner
+
+Designed an agentic AI assistant that builds travel itineraries using LLM-driven reasoning and external data APIs.
+
+### PDF to Audiobook Pipeline
+https://github.com/wholidi/Project/tree/main/PDF_to_Audio
+
+A document-processing CLI pipeline that converts PDFs into structured audiobook outputs.
 
 
+**Focus**
+- practical automation
+- content transformation pipeline
+- metadata handling
+- operational usability
+
+---
+
+## Quant / Experimental AI Systems
+
+### Minervini Predicted Stock Trading
+https://github.com/wholidi/Project/tree/main/Minervini
+
+Implemented momentum-based screening strategy inspired by Mark Minervini’s breakout and base-building logic.
+
+### PowerX Predicted Stock Trading
+https://github.com/wholidi/Project/tree/main/PowerX_Scanner
+
+Built PowerX-inspired stock screener using indicators like MACD, RSI, and Stochastics. Extended with LSTM prediction.
+
+**Focus**
+- feature engineering
+- model experimentation
+- classification pipelines
+
+**Note**
+These projects are part of my applied modeling background, but my current focus is increasingly on AI runtime risk, monitoring, and control systems.
+
+---
+
+## How I Think About AI Systems
+
+I am most interested in systems that answer questions like:
+- How do we detect AI failures in production?
+- How do we observe unsafe agent behavior?
+- How do we translate runtime events into governance evidence?
+- How do we move from static compliance to operational assurance?
+
+That is the direction of this portfolio.
+
+---
+
+## Current Direction
+
+My current build focus is on:
+- AI safety systems
+- runtime monitoring layers
+- governance control mappings
+- agentic risk detection
+- practical assurance tooling for real deployments
+
+---
+
+## Selected Background
+
+This work builds on experience across:
+- 24+ years of enterprise digital transformation
+- regulated operational environments
+- MLOps and governance alignment
+- AI audit and responsible AI controls
+
+---
+
+## Let’s Talk
+
+If you are working on:
+- AI governance that needs operational evidence
+- agentic systems that need control layers
+- LLM deployments that need monitoring and triage
+- runtime risk detection for AI systems
+
+I’d be glad to connect.
