@@ -59,7 +59,9 @@ Deployed AI Verify in a working AWS environment to evaluate ML systems against f
 - governance-oriented model evaluation
 - validation workflow setup
 - audit and evidence generation
+
 ---
+
 ### Dev Guardian – AI Assurance & Control Engine
 🔗 [View on GitHub](https://github.com/wholidi/dev-guardian)
 
@@ -73,7 +75,9 @@ A governance-oriented control and audit engine that translates AI system behavio
 
 **Role in Architecture**
 Acts as the audit and assurance layer, transforming runtime events into governance evidence and compliance-ready artifacts.
+
 ---
+
 ### GenAI Multi-Agent Security Scanner
 🔗 [View on GitHub](https://github.com/wholidi/Project/tree/main/Agentic%20AI/GenAI_Multi_Agent_Sec)
 
@@ -99,12 +103,16 @@ Exploration of LLM-driven assistants and AutoGPT-style orchestration for autonom
 - tool usage behavior
 - reliability and oversight
 - external API orchestration
+
 ---
+
 ### Agentic AI Trip Planner
 🔗 [View on GitHub](https://github.com/wholidi/Project/tree/main/Agentic%20AI/Trip_Planner)
 
 Designed an agentic AI assistant that builds travel itineraries using LLM-driven reasoning and external data APIs.
+
 ---
+
 ### PDF to Audiobook Pipeline
 🔗 [View on GitHub](https://github.com/wholidi/Project/tree/main/PDF_to_Audio)
 
@@ -124,7 +132,9 @@ A document-processing CLI pipeline that converts PDFs into structured audiobook 
 🔗 [View on GitHub](https://github.com/wholidi/Project/tree/main/Minervini)
 
 Implemented momentum-based screening strategy inspired by Mark Minervini’s breakout and base-building logic.
+
 ---
+
 ### PowerX Predicted Stock Trading
 🔗 [View on GitHub](https://github.com/wholidi/Project/tree/main/PowerX_Scanner)
 
