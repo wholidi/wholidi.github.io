@@ -25,7 +25,8 @@ This portfolio highlights systems designed to make AI more observable, controlla
 ## Featured System
 
 ### LLM Runtime Risk Monitoring & Attack Detection System
-https://github.com/wholidi/llm-attack-detection-dashboard
+🔗 [View on GitHub](https://github.com/wholidi/llm-attack-detection-dashboard)
+
 A monitoring and triage system for detecting high-risk behavior in LLM applications and agentic workflows.
 
 **What it does**
@@ -50,7 +51,8 @@ Traditional AI governance often focuses on policy and documentation. This system
 ## AI Safety & Governance Systems
 
 ### AI Verify on AWS
-https://github.com/wholidi/Project/tree/main/AIverify
+🔗 [View on GitHub](https://github.com/wholidi/Project/tree/main/AIverify)
+
 Deployed AI Verify in a working AWS environment to evaluate ML systems against fairness, transparency, and responsible AI principles.
 
 **Focus**
@@ -59,7 +61,8 @@ Deployed AI Verify in a working AWS environment to evaluate ML systems against f
 - audit and evidence generation
 
 ### Dev Guardian – AI Assurance & Control Engine
-https://github.com/wholidi/dev-guardian
+🔗 [View on GitHub](https://github.com/wholidi/dev-guardian)
+
 A governance-oriented control and audit engine that translates AI system behavior into structured risk signals, control mappings, and audit-ready evidence.
 
 **Focus**
@@ -72,7 +75,8 @@ A governance-oriented control and audit engine that translates AI system behavio
 Acts as the audit and assurance layer, transforming runtime events into governance evidence and compliance-ready artifacts.
 
 ### GenAI Multi-Agent Security Scanner
-https://github.com/wholidi/Project/tree/main/Agentic%20AI/GenAI_Multi_Agent_Sec
+🔗 [View on GitHub](https://github.com/wholidi/Project/tree/main/Agentic%20AI/GenAI_Multi_Agent_Sec)
+
 A multi-agent application security workflow using LLM reasoning to detect, classify, and report code risk.
 
 **Focus**
@@ -86,7 +90,8 @@ A multi-agent application security workflow using LLM reasoning to detect, class
 ## Agentic & Applied AI Systems
 
 ### Agentic Workflow Systems
-https://github.com/wholidi/Project/tree/main/Agentic%20AI/Auto%20GPT
+🔗 [View on GitHub](https://github.com/wholidi/Project/tree/main/Agentic%20AI/Auto%20GPT)
+
 Exploration of LLM-driven assistants and AutoGPT-style orchestration for autonomous task execution.
 
 **Focus**
@@ -96,12 +101,12 @@ Exploration of LLM-driven assistants and AutoGPT-style orchestration for autonom
 - external API orchestration
 
 ### Agentic AI Trip Planner
-https://github.com/wholidi/Project/tree/main/Agentic%20AI/Trip_Planner
+🔗 [View on GitHub](https://github.com/wholidi/Project/tree/main/Agentic%20AI/Trip_Planner)
 
 Designed an agentic AI assistant that builds travel itineraries using LLM-driven reasoning and external data APIs.
 
 ### PDF to Audiobook Pipeline
-https://github.com/wholidi/Project/tree/main/PDF_to_Audio
+🔗 [View on GitHub](https://github.com/wholidi/Project/tree/main/PDF_to_Audio)
 
 A document-processing CLI pipeline that converts PDFs into structured audiobook outputs.
 
@@ -117,12 +122,12 @@ A document-processing CLI pipeline that converts PDFs into structured audiobook 
 ## Quant / Experimental AI Systems
 
 ### Minervini Predicted Stock Trading
-https://github.com/wholidi/Project/tree/main/Minervini
+🔗 [View on GitHub](https://github.com/wholidi/Project/tree/main/Minervini)
 
 Implemented momentum-based screening strategy inspired by Mark Minervini’s breakout and base-building logic.
 
 ### PowerX Predicted Stock Trading
-https://github.com/wholidi/Project/tree/main/PowerX_Scanner
+🔗 [View on GitHub](https://github.com/wholidi/Project/tree/main/PowerX_Scanner)
 
 Built PowerX-inspired stock screener using indicators like MACD, RSI, and Stochastics. Extended with LSTM prediction.
 
@@ -178,3 +183,6 @@ If you are working on:
 - runtime risk detection for AI systems
 
 I’d be glad to connect.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/whartono/)  
+🌐 [GitHub](https://github.com/wholidi)
