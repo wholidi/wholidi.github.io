@@ -1,3 +1,8 @@
+---
+layout: ai
+title: Applied AI Systems
+permalink: /ai/
+---
 # Applied AI Systems
 
 **Runtime monitoring, control layers, and governance systems for real-world AI deployments.**
