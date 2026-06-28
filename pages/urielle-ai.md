@@ -21,6 +21,7 @@ This GitHub Pages entry is maintained as a **reference + portfolio gateway** (no
 - GenAI Security & Safety
 - AI Assurance / Risk & Compliance Engineering
 - AI-Thara (AI governance storytelling framework)
+- ISO 42001 AIMS
 
 For services, blog, portfolio, AI-Thara, and contact — use the official website above.
 
